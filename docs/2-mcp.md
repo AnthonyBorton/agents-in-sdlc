@@ -74,7 +74,7 @@ Once you have the extension installed, you may need to authenticate with your Gi
 
     ![Example of Copilot Chat window](images/copilot-chat-window.png)
 
-6. Switch to agent mode by selecting the dropdown in the Copilot Chat window and selecting **Agent**.
+6. If you're not already in Agent mode, you can switch to agent mode by selecting the dropdown in the Copilot Chat window and selecting **Agent**.
 
     ![Example of switching to agent mode](images/copilot-agent-mode-dropdown.png)
 
@@ -169,7 +169,7 @@ Now that you have set up the GitHub MCP server, you can use Copilot Agent mode t
     ```
 
 3. Press <kbd>enter</kbd> or select the **Send** button to send the prompt to Copilot.
-4. GitHub Copilot should process the request and respond with a dialog box asking you to confirm the creation of the issues.
+4. GitHub Copilot should process the request and respond with a dialog box asking you to confirm the creation of the issues. 
 
     ![Example of Copilot Chat dialog box asking for confirmation to run the create issue command](images/create-issue-dialog.png)
 

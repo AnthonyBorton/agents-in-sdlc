@@ -89,7 +89,7 @@ While every developer and organization understands the importance of documentati
 1. Navigate to your repository on github.com in a new browser tab.
 2. Select the **Issues** tab.
 3. Select **New issue** to open the new issue dialog.
-4. Select **Blank issue** to create the new issue.
+4. If prompted, select **Blank issue** to create the new issue.
 5. Set the **Title** to `Code lacks documentation`.
 6. Set the **Description** to:
    
@@ -97,7 +97,7 @@ While every developer and organization understands the importance of documentati
     Our organization has a requirement that all functions have docstrings or the language equivalent. Unfortunately, recent updates haven't followed this standard. We need to update the existing code to ensure docstrings (or the equivalent) are included with every function or method.
     ```
 
-7. Select **Create** to create the issue.
+7. Select **Create** to create the issue. You might need to scroll down to see the Create button.
 8. On the right side, select **Assignees** to open the searchbox for contributors to the repository.
 9. Select **Copilot** to assign the issue to Copilot.
 
@@ -131,7 +131,7 @@ As has been highlighted, one of the great advantages of GitHub Copilot coding ag
 1. Return to your repository on github.com.
 2. Select the **Issues** tab.
 3. Select **New issue** to open the new issue dialogue.
-4. Select **Blank issue** to use the blank template.
+4. If prompted, select **Blank issue** to use the blank template.
 5. Set the **Title** to: `Add endpoints to create and edit games`
 6. Set the **Description** to:
 
@@ -145,13 +145,13 @@ As has been highlighted, one of the great advantages of GitHub Copilot coding ag
    ```
 
 7. Note the level of guidance being provided to Copilot to help set everyone up for success.
-8. Scroll towards the bottom of the dialog box to locate the **Assignee** button.
+8. Locate the **Assignee** button towards the right side of the issue.
 9. Select **Assignee** to open the dialog box to select assignees.
 10. Select **Copilot** from the list.
 
     ![Create issue and assign Copilot coding agent](images/create-issue-assign-copilot.png)
 
-11. Select **Create** to save the issue.
+11. Select **Create** to save the issue. You might need to scroll down to see the Create button.
 12. The newly created issue should now open.
 
 Shortly after, you should see a set of 👀 on the first comment in the issue, indicating Copilot is on the job!

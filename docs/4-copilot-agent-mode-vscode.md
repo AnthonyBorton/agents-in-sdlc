@@ -127,6 +127,8 @@ In addition, the tests need to run (and pass) before we merge everything into ou
 > [!NOTE]
 > You will notice that Copilot will perform several tasks, like exploring the project, modifying files, and running tests. It may take a few minutes depending on the complexity of the task and the codebase. During that process, you may notice **Keep** and **Undo**  buttons appear in the code editor. When Copilot is finished, you will have a **Keep** or **Undo** for all of the changes, so you do not need to select them while work is in progress.
 
+Copilot will likely take up to 5 minutes to comeplet the work above. Be patient and wait until it is finished in the Copilot window and you are presented with  a prompt to Continue.
+
 6. As prompted by Copilot, select **Continue** to run the tests.
 
    ![Screenshot showing a dialog in the Copilot Chat pane asking the user to confirm they are happy to run tests](images/copilot-agent-mode-run-tests.png)
@@ -153,7 +155,8 @@ With our changes created locally we're ready to create a pull request (PR) to al
 
    ![Screenshot of the Source Control panel showing the changes made](images/source-control-changes-agent-mode.png)
 
-4. Select **Publish** to push the branch to your repository.
+4. Click **Commit**.
+5. Select **Publish branch** to push the branch to your repository.
 
 ## Create the pull request
 
